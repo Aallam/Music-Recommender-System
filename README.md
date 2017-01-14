@@ -11,7 +11,7 @@ The database used with this project is issued from [Million Song Dataset][1] and
 * [Graphlab][3]
 
 ### More
-For more detailed informations about the files and the reasoning process, please check this [post][4].
+For more detailed information about the files and the reasoning process, please check this [post][4].
 
 *Notice: This was developed as a school mini project (2016)*
 
