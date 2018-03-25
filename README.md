@@ -17,6 +17,6 @@ For more detailed information about the files and the reasoning process, please 
 
 [0]: https://aallam.com/assets/images/blog/datamining.png
 [1]: http://labrosa.ee.columbia.edu/millionsong/
-[2]: https://dl.dropboxusercontent.com/u/25109353/aallam.com/msd.sqlite3
+[2]: https://www.dropbox.com/s/6t0awghwm5vlam5/msd.sqlite3
 [3]: https://turi.com/
 [4]: https://aallam.com/data-mining-recommender-systems/
